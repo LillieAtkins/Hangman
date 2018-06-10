@@ -1,5 +1,3 @@
-//I have neither give nor received any unauthorized aid on this assignment. --Lillie Atkins
-
 import java.util.Random;
 
 public class Hangman {
